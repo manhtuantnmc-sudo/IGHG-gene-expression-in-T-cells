@@ -1,4 +1,4 @@
-# README – RNA-seq Analysis Code (FigureS2)
+# README – Figure_S2 Analysis Code
 
 ## Overview
 This repository contains the R code used to generate the analyses and figures corresponding to Figure 1 in the manuscript.
