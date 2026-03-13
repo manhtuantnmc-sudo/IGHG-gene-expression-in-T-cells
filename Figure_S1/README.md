@@ -1,5 +1,5 @@
 
-# README – RNA-seq Analysis Code (FigureS1)
+# README Figure_S1 Analysis Code
 
 ## Overview
 This repository contains additional R scripts used to generate figures from the same RNA-seq dataset obtained from the ImmPort database.
