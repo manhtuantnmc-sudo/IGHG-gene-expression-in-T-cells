@@ -1,5 +1,5 @@
 
-# README – RNA-seq Analysis Code
+# README Figure_1 Analysis Code
 
 ## Overview
 This repository contains the R code used to analyze publicly available RNA-seq data from the ImmPort database.
