@@ -1,6 +1,5 @@
 ###############################################
 # T Cell RNA-seq Analysis – Figures 1A–1E
-# Author: Tuan Nguyen
 ###############################################
 
 # ===============================
@@ -178,3 +177,4 @@ ggsave("Fig1e.png", fig1e, width = 6.5, height = 3.5, dpi = 900, bg = "transpare
 # 11. Save session info for reproducibility
 # ===============================
 writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
+
