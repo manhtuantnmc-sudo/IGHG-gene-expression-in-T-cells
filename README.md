@@ -6,6 +6,6 @@ This repository contains R scripts used to generate analyses and figures reporte
 - **Figure 1 & S1:** ImmPort SDY998 ([https://www.immport.org/shared/study/SDY998](https://www.immport.org/shared/study/SDY998))  
 - **Figure S2:** GEO GSE126030 ([https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126030](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126030))  
 
-**Reproducibility: Each folder contains instructions for running the scripts and reproducing the figures.
+**Reproducibility**: Each folder contains instructions for running the scripts and reproducing the figures.
 
 
