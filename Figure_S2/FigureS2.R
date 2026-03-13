@@ -1,7 +1,6 @@
 # ==========================================
 # Seurat scRNA-seq Analysis for T cells (Lymph Node)
 # Input: E-HCAD-8.aggregated_filtered_counts.mtx (+ _cols, _rows)
-# Author: Tuan Nguyen
 # ==========================================
 
 # -------------------------------
@@ -318,5 +317,6 @@ vln_list <- lapply(genes, function(g){
 
 figureS2D <- wrap_plots(vln_list, ncol = 3) +
   plot_annotation(theme = theme(plot.background = element_rect(fill = NA, color = NA)))
+
 
 ggsave("FigureS2D.png", plot = figureS2D, width = 6.5, height = 3.5, units = "in", dpi = 900, bg = "transparent")
